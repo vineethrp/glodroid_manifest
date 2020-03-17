@@ -4,5 +4,6 @@
   <include name="aosp.xml" />
   <include name="aosp-override.xml" />
   <include name="glodroid.xml" />
+  <include name="pinephone.xml" />
 
 </manifest>
