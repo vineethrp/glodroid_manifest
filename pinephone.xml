@@ -7,4 +7,5 @@
   <project path="device/glodroid"  name="glodroid_device.git" remote="pinephone" revision="pinephone" />
   <project path="external/u-boot" name="u-boot.git" remote="pinephone" revision="pinephone-android" groups="pdk" />
 
+  <include name="open_gapps.xml" />
 </manifest>
