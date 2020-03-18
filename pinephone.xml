@@ -3,6 +3,7 @@
 
   <remote  name="pinephone"   fetch="https://github.com/vineethrp/" />
 
-  <project path="kernel/pinephone"  name="pinephone-linux.git" remote="pinephone" revision="glodroid-pinephone" />
+  <project path="kernel/glodroid"  name="pinephone-linux.git" remote="pinephone" revision="glodroid-pinephone" />
+  <project path="device/glodroid"  name="glodroid_device.git" remote="pinephone" revision="pinephone" />
 
 </manifest>
