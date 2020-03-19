@@ -5,5 +5,6 @@
 
   <project path="kernel/glodroid"  name="pinephone-linux.git" remote="pinephone" revision="glodroid-pinephone" />
   <project path="device/glodroid"  name="glodroid_device.git" remote="pinephone" revision="pinephone" />
+  <project path="external/u-boot" name="u-boot.git" remote="pinephone" revision="pinephone-android" groups="pdk" />
 
 </manifest>
